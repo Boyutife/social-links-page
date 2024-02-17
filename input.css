@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.bg-img {
+  background-image: url('./assets/images/avatar-jessica.jpeg');
+  background-size: cover;
+  background-position: center;
+}
